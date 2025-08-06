@@ -1,0 +1,3 @@
+"exists(/*/objects/auc[imsi = 'xx']/amf)";
+"exists(/*/objects/pcf)";
+"for $obj in /*/objects where $obj/auc/imsi = 'xx' return $obj/auc/amf";
