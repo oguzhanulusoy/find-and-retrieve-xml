@@ -1,4 +1,4 @@
-package org.vf;
+package org.ogulusoy;
 
 import java.io.IOException;
 import java.nio.file.Files;
